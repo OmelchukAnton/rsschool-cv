@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    height: 1440px;
+    width: 960px;
+    background-image: url(images/bg.jpg);
+}
+
+img {
+    border-radius: 50%;
+}
+
+.name {
+    margin-left: 24px;
+}
+
+header {
+    margin: 10% 10% 0% 10%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+main {
+    margin-left: 10%;
+}
+
+footer {
+    margin-left: 10%;
+}
