@@ -1,10 +1,18 @@
 1. Anton Omelchuk
-1. Contacts:
-  * _mail:_ antony.it.work@gmail.com
-  * _tel:_ +375 29 5201644
-1. About: I graduated at Brest State Technical University on the faculty of Electronic Information Systems. Since December 2017 i'm working as a software developer.
-1. I have expirience with JS, HTML, CSS, React, Java, PHP, Laravel, SQL
-1. Code example: console.log('Hello World');
-1. I have a lot expirience with programming. 
-1. RS School in progress.
-1. English language: ~B1.
+2. Contacts:
+* _mail:_ antony.it.work@gmail.com
+* _github:_ https://github.com/OmelchukAnton
+3. I have been interested in programming since university
+4. JavaScript, HTML, CSS, React
+5. Code example:
+```js
+    const output = () => {
+        console.log('gl hf');
+        return;
+    }
+```
+6. Participated in the development of web apps, support and improvement of existing code
+7. Education: 2011-2016 Brest State Technical University, Brest, Belarus  
+   Faculty of Electronic Information Systems  
+   Speciality: Automatic data processing systems
+8. English language: intermediate.
