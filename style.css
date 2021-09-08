@@ -1,13 +1,14 @@
 body {
-    display: flex;
-    justify-content: center;
-}
-
-.content {
+    background-image: url(images/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
     height: 1440px;
     width: 960px;
-    background-image: url(images/bg.jpg);
     margin: auto;
+}
+
+h1 {
+    display: none;
 }
 
 img {
@@ -27,16 +28,16 @@ ul {
 }
 
 header {
-    margin: 10% 10% 0% 10%;
+    padding: 10% 10% 0% 10%;
     display: flex;
     justify-content: center;
     align-content: center;
 }
 
-main {
-    margin-left: 10%;
+.main {
+    padding-left: 10%;
 }
 
 footer {
-    margin-left: 10%;
+    padding-left: 10%;
 }
