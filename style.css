@@ -1,0 +1,42 @@
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.content {
+    height: 1440px;
+    width: 960px;
+    background-image: url(images/bg.jpg);
+    margin: auto;
+}
+
+img {
+    border-radius: 50%;
+}
+
+a:hover {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+.brief {
+    margin-left: 24px;
+}
+
+header {
+    margin: 10% 10% 0% 10%;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+main {
+    margin-left: 10%;
+}
+
+footer {
+    margin-left: 10%;
+}
